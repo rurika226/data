@@ -13,6 +13,7 @@
 * [미나미 쿄코 란코](etc/puchi/puchi_main2)
 * [미도리 미유키 유키미](etc/puchi/puchi_main3)
 * [히로미 아키 아야](etc/puchi/puchi_main4)
+* [아이 카린 아이코](etc/puchi/puchi_main5)
 
 ## 보존된 기타 커뮤 목록
 * [치아키 JAM 01](idols/etc/episodes/jam_01)
