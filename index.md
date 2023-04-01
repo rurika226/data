@@ -1,12 +1,17 @@
 # 아이돌마스터 신데렐라 걸즈 아이돌 갤러리 아카이브
 
+## 메인화면 보존
+* [마이 스튜디오](mypage)
+* [마이 프로필](mypage/myprofile.html)
+
 ## 보존된 아이돌 갤러리 목록
+* [갤러리 메인](mypage/idol_gallery.html)
+
 * [시부야 린](idols/rin)
 * [쿠로카와 치아키](idols/chiaki)
 * [하야미 카나데](idols/kanade)
 * [야나세 미유키](idols/miyuki)
 * [키리노 아야](idols/aya)
-* [닛타 미나미_미컴플](idols/minami)
 
 ## 보존된 푸치 프로필 목록
 * [치아키 카나데 린](etc/puchi/puchi_main1)
